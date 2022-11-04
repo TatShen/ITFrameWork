@@ -1,1 +1,1 @@
-# ITFrameWork
+# mentoring-simple-webpack-starter
